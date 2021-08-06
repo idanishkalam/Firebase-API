@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473006741605",
+    "project_id": "apinotification-e9091",
+    "storage_bucket": "apinotification-e9091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473006741605:android:7824a3c19e8963b99dce8c",
+        "android_client_info": {
+          "package_name": "com.example.apinotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473006741605-ka1jfk8psvs4jnmgrnt7qojqbjg7a58a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrZDm0ssYl59iFbDTu4MhbbWl47SJPNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473006741605-ka1jfk8psvs4jnmgrnt7qojqbjg7a58a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
